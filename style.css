@@ -1,5 +1,5 @@
 body {
-	background-color: royalblue;
+	background-color: lightcoral;
 }
 
 .login1,
@@ -36,4 +36,13 @@ body {
 }
 p{
 	color: black;
+}
+h4{
+	color: white;
+}
+span{
+	color: white;
+}
+h3{
+	color: white;
 }
